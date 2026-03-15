@@ -17,28 +17,8 @@ contributors (alphabetical order).
 
 Homepage: https://github.com/eudev-project/eudev
 
-Tarballs of releases: https://github.com/eudev-project/eudev/releases  
-Old releases (archive): http://dev.gentoo.org/~blueness/eudev/
+Tarballs of releases: Clone this repo.
 
 The eudev community gathers on [Libera.Chat](https://libera.chat/):  
 ircs://irc.libera.chat:6697/#eudev  
 https://web.libera.chat/#eudev
-
-Active team members (alphabetical order by last name):
-
-    Arsen Asenović      (Arsen)             <arsen@aarsen.me>
-    Luca Barbato        (lu_zero)           <lu_zero@gentoo.org>
-    Anthony G. Basile   (blueness)          <blueness@gentoo.org>
-    Boian Bonev         (bb|hcb)            <boian@bonev.com>
-    Ariadne Conill      (Ariadne)           <ariadne@dereferenced.org>
-
-Emeritus team members (alphabetical order by last name):
-
-    Francisco Izquierdo (klondike)          <klondike@gentoo.org>
-    Ian Stakenvicius    (axs)               <axs@gentoo.org>
-    Matthew Thode       (prometheanfire)    <prometheanfire@gentoo.org>
-    Tony Vroon          (chainsaw)          <tony@linx.net>
-    Richard Yao         (ryao)              <ryao@gentoo.org>
-
-## Build status
-[![Build Status](https://github.com/eudev-project/eudev/actions/workflows/build.yml/badge.svg)](https://github.com/eudev-project/eudev/actions)
