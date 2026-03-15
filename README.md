@@ -8,7 +8,7 @@ This git repo is a fork of git://anongit.freedesktop.org/systemd/systemd with
 the aim of isolating udev from any particular flavor of system initialization.
 In this case, the isolation is from systemd.
 
-iinitt to eudev{d,adm}:
+iinitt to eudev{d,adm}: https://github.com/ilkayBedrock/iinitt-to-eudev
 
 Homepage: https://github.com/eudev-project/eudev
 Homepage to iinitt: https://github.com/ilkayBedrock/iinitt
