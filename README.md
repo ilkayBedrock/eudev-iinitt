@@ -11,6 +11,8 @@ In this case, the isolation is from systemd.
 iinitt to eudev{d,adm}:
 
 Homepage: https://github.com/eudev-project/eudev
+Homepage to iinitt: https://github.com/ilkayBedrock/iinitt
+Homepage for this fork: https://github.com/ilkayBedrock/eudev-iinitt
 
 Tarballs of releases: Clone this repo.
 
